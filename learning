@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en"
+
+<head>
+  meta charset="UTF-8"
+-     <title>Home</title>
+<meta name="viewpoint" content="width=device-width, initial=scale=1.0">
+<title>Hello There</title>
+</head>
+
+<body>
+-   <h1>welcome to my website</h1>
+<p>
+this is my first website
+</p>
+<p>
+this is a change i made recently
+</p>
+<div id="nav-bar" style="background-colour:aqua;">
+<a href="">Gmail</a>
+<a href="">images</a>
