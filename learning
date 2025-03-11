@@ -19,3 +19,40 @@ this is a change i made recently
 <div id="nav-bar" style="background-colour:aqua;">
 <a href="">Gmail</a>
 <a href="">images</a>
+<a> href="">images</a>
+</div>
+
+</div>
+
+<div id="content" style="bacground-colour":gray;>
+    <div  id="logo-div">
+<img
+src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png"
+ alt="Google Logo" width="200px" height="100px">
+</div>
+<div id="searchbar-div">
+<div style="display: flex;">
+                 <div>searchIcon</div>
+                 <input placeholder="Search Input" />
+                 <div>icon2</div>
+                 <div>icon3</div>
+             </div>
+         </div>
+         <div id="buttons-div">
+             <button>
+                 Google Search
+             </button>
+             <button>
+                 Im Feeling lucky
+             </button>
+         </div>
+     </div>
+ 
+     <div id="footer" style="background-color: brown;">
+         <p>
+             IYEF Web Dev Cohort 2
+         </p>
+     </div>
+ </body>
+ 
+ </html>
